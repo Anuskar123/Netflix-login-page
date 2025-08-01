@@ -160,7 +160,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Netflix for the original design inspiration
 - Google Fonts for the Roboto font family
-- @coding.stella for the tutorial and guidance
+
 
 ## 📞 Contact
 
